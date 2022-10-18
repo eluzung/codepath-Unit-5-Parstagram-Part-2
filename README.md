@@ -22,8 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' />
-<img src="http://g.recordit.co/PVIo1inJPW.gif" width=250><br>
+<img src="http://g.recordit.co/9P1ORAj7h6.gif" width=250><br>
+
 # codepath-Unit-5-Parstagram
 # Parstagram - Part I
 
