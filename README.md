@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/9P1ORAj7h6.gif" width=250><br>
+![](https://github.com/eluzung/codepath-Unit-5-Parstagram-Part-2/blob/main/codepath-Unit-5-Parstagram-Part-2.gif)
 
 # codepath-Unit-5-Parstagram
 # Parstagram - Part I
